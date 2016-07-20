@@ -1,0 +1,10 @@
+export HUBOT_LOG_LEVEL=debug
+export ROCKETCHAT_URL=http://localhost:3000
+export ROCKETCHAT_USER=testbot
+export ROCKETCHAT_PASSWORD=password
+export ROCKETCHAT_AUTH=password
+export ROCKETCHAT_ROOM=newsfeed
+export LISTEN_ON_ALL_PUBLIC=true
+export RESPOND_TO_DM=true
+export RESPOND_TO_EDITED=true
+export PORT=3003
